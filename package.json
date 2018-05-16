@@ -1,5 +1,5 @@
 {
-  "name": "node-crud",
+  "name": "node-crud-postman",
   "version": "1.0.0",
   "description": "This is a node application with CRUD operations.",
   "main": "server.js",
@@ -9,6 +9,8 @@
   "author": "Ravi Teja",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.1"
   }
 }
